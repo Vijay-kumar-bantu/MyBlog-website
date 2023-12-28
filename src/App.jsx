@@ -85,7 +85,7 @@ function App() {
         </div>
         <div className=" min-w-full p-3">
           <h1 className="font-bold lg:text-3xl dark:text-white">Latest Post</h1>
-          <div className="p-4 grid grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-3">
+          <div className="p-3 grid grid-cols-2 gap-5 md:grid-cols-3 lg:grid-cols-4">
             <PostCard theme={theme} />
             <PostCard theme={theme} />
             <PostCard theme={theme} />
@@ -111,10 +111,14 @@ function App() {
           <div className="w-lvw lg:w-1/3">
             <h1 className="font-bold mb-4">About</h1>
             <p className="text-sm">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptatibus numquam corrupti odio, amet asperiores ut ea voluptas
-              ad quas quibusdam. Quis porro excepturi dolorum, rerum quidem
-              nesciunt eius quo! Eaque.
+              I have successfully designed and developed a frontend blog website
+              using React.js, showcasing a significant enhancement in my
+              frontend development skills with this technology. The project not
+              only demonstrates my proficiency in React.js but also reflects my
+              ability to create engaging and interactive user interfaces for web
+              applications. Through this experience, I have gained valuable
+              insights and hands-on experience that contribute to my growing
+              expertise in frontend development with React.js.
             </p>
           </div>
           <div className="list-none flex flex-col gap-3 cursor-pointer">
