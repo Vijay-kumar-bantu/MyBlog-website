@@ -4,6 +4,10 @@ I have successfully designed and developed a frontend blog website using React.j
 
 This is just the home of the website, soon i will complete the whole website
 
+## Tech Stack
+
+- React js,TailwindCSS
+
 ## Authors
 
 - [@vijay-kumar-bantu](https://www.github.com/vijay-kumar-bantu)
