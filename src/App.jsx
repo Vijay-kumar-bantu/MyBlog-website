@@ -84,7 +84,9 @@ function App() {
           </div>
         </div>
         <div className=" min-w-full p-3">
-          <h1 className="font-bold lg:text-3xl dark:text-white">Latest Post</h1>
+          <h1 className="font-bold lg:text-3xl dark:text-white">
+            Latest Posts
+          </h1>
           <div className="p-3 grid grid-cols-2 gap-5 md:grid-cols-3 lg:grid-cols-4">
             <PostCard theme={theme} />
             <PostCard theme={theme} />
